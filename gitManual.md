@@ -17,9 +17,9 @@ git checkout [branch_name]  # Switch to an existing branch
  ### Note
  - When adding a fresh repo with multiple branches, use this command to see all of the branches
  - Since branches would be hidden at first
- ~~~ bash
+ ``` bash
  git checkout -a # Sees all branches, remote and local to you
- ~~~  
+ ```
 
 ### Making a Commit
 * Uploading a change from our local machine's version of the branch to the cloud/online  version of the branch
