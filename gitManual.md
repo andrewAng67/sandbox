@@ -9,12 +9,14 @@
 ### Branches
 * Think of it as opening different sections of the same repo, one independent after another 
 * Each repo is independent, unless when we specify that we want to interact with one another (via *$ git merge*, etc.) 
+``` bash
 git checkout -b [new_branch_name] # Create a new branch and switch to it
 git branch # List all current branches
 git checkout [branch_name]  # Switch to an existing branch
  ```
 
  ### Note
+ 
  - When adding a fresh repo with multiple branches, use this command to see all of the branches
  - Since branches would be hidden at first
  ``` bash
