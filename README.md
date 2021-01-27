@@ -2,6 +2,5 @@
 
 #### Shortcuts
 * Git Cheatsheet -> [<>](https://github.com/andrewAng67/sandbox/blob/working/gitManual.md)
-* Algo Practice (Beginner C) -> [<>]()
 
 
