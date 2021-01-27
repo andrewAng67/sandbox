@@ -1,0 +1,7 @@
+# Algo Practice (In C)
+
+### All present questions were acquired from UNSW (Ashesh, COMP2521)
+
+#### Shortcuts
+* Questions -> [<>]()
+* Solutions -> [<>]()
